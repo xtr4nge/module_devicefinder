@@ -4,6 +4,8 @@
 <br>
 <b>Modified</b>: xtr4nge [_AT_] gmail.com - @xtr4nge
 <br><br>
+<b>Required:</b> python-pyaudio python-scapy
+<br><br>
 <div style="font-family: courier, monospace">
 Command line usage: ./ik_wifi_device_finder.py -i INTERFACE [-m MAC | -e SSID] {options}
 <br>
